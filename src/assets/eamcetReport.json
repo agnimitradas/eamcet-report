@@ -1,0 +1,137 @@
+[
+ {
+   "region": "rayalaseema",
+   "district": "kurnool",
+   "city": "allagadda",
+   "college": "alfa",
+   "studentName": "rama",
+   "studentId": "2009RYS100",
+   "studentRank": 10
+ },
+ {
+   "region": "rayalaseema",
+   "district": "kurnool",
+   "city": "allagadda",
+   "college": "vidya",
+   "studentName": "rama",
+   "studentId": "2009RYS101",
+   "studentRank": 110
+ },
+ {
+   "region": "rayalaseema",
+   "district": "kurnool",
+   "city": "allagadda",
+   "college": "alfa",
+   "studentName": "krishna",
+   "studentId": "2009RYS200",
+   "studentRank": 20
+ },
+ {
+   "region": "rayalaseema",
+   "district": "kurnool",
+   "city": "allagadda",
+   "college": "vidya",
+   "studentName": "krishna",
+   "studentId": "2009RYS201",
+   "studentRank": 220
+ },
+ {
+   "region": "rayalaseema",
+   "district": "kadapa",
+   "city": "produtoor",
+   "college": "cbit",
+   "studentName": "sita",
+   "studentId": "2009RYS300",
+   "studentRank": 320
+ },
+ {
+   "region": "rayalaseema",
+   "district": "kadapa",
+   "city": "mydukur",
+   "college": "bharati",
+   "studentName": "sita",
+   "studentId": "2009RYS310",
+   "studentRank": 330
+ },
+ {
+   "region": "telengana",
+   "district": "hyderabad",
+   "city": "khairathabad",
+   "college": "sadan",
+   "studentName": "radha",
+   "studentId": "2009TRS310",
+   "studentRank": 350
+ },
+ {
+   "region": "telengana",
+   "district": "hyderabad",
+   "city": "nampalli",
+   "college": "decan",
+   "studentName": "radha",
+   "studentId": "2009TRS410",
+   "studentRank": 450
+ },
+ {
+   "region": "telengana",
+   "district": "hyderabad",
+   "city": "nampalli",
+   "college": "decan",
+   "studentName": "geetha",
+   "studentId": "2009TRS510",
+   "studentRank": 550
+ },
+ {
+   "region": "telengana",
+   "district": "nirmal",
+   "city": "nirmal",
+   "college": "nandana",
+   "studentName": "arjun",
+   "studentId": "2009TRS610",
+   "studentRank": 594
+ },
+ {
+   "region": "kosta",
+   "district": "eastGodavari",
+   "city": "rajamandri",
+   "college": "pragathi",
+   "studentName": "kiran",
+   "studentId": "2009KST700",
+   "studentRank": 732
+ },
+ {
+   "region": "kosta",
+   "district": "eastGodavari",
+   "city": "rajamandri",
+   "college": "pragathi",
+   "studentName": "varun",
+   "studentId": "2009KST800",
+   "studentRank": 742
+ },
+ {
+   "region": "kosta",
+   "district": "westGodavari",
+   "city": "tadepalligudem",
+   "college": "vasavi",
+   "studentName": "vasavi",
+   "studentId": "2009KST720",
+   "studentRank": 300
+ },
+ {
+   "region": "kosta",
+   "district": "westGodavari",
+   "city": "narsapur",
+   "college": "swarnandhra",
+   "studentName": "swarna",
+   "studentId": "2009KST721",
+   "studentRank": 1000
+ },
+ {
+   "region": "kosta",
+   "district": "westGodavari",
+   "city": "narsapur",
+   "college": "swarnandhra",
+   "studentName": "swarna",
+   "studentId": "2009KST722",
+   "studentRank": 1234
+ }
+]
